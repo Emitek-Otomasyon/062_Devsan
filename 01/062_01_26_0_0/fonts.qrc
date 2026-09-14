@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/c0632bt_.pfb</file>
+        <file>fonts/c0633bt_.pfb</file>
+        <file>fonts/c0648bt_.pfb</file>
+        <file>fonts/c0649bt_.pfb</file>
+        <file>fonts/UbuntuMono-B.ttf</file>
+        <file>fonts/UbuntuMono-BI.ttf</file>
+        <file>fonts/UbuntuMono-R.ttf</file>
+        <file>fonts/UbuntuMono-RI.ttf</file>
+    </qresource>
+</RCC>
