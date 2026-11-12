@@ -1,2 +1,2 @@
-062_001_026_0_2 : Renkli Scanreco Ekran Yazilimi.028_23_026_0_0 dan revize edilmiştir.
+062_01_026_0_2 : Renkli Scanreco Ekran Yazilimi.028_23_026_0_0 dan revize edilmiştir.
 062_01_028_0_0 : Topcon Tuşlu B2 Ekran Yazilimi.028_23_028_0_1 den revize edilmiştir.
